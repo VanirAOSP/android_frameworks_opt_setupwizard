@@ -46,7 +46,7 @@
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="8"
-                android:background="?attr/suwCardBackground"
+                android:background="@drawable/suw_card_bg"
                 android:elevation="@dimen/suw_card_elevation"
                 tools:ignore="UnusedAttribute">
 
